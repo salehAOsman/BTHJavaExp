@@ -9,10 +9,10 @@ public class mainAcount {
 		newAcount.withDraw(2500);
 
 		System.out.println("\n\t" + newAcount);
-
+		System.out.println("Welcome2");
 		newAcount.deposit(3000);
 
 		System.out.println("\n\t" + newAcount);
-		System.out.println("Welcome");
+		System.out.println("Welcome1");
 	}
 }
