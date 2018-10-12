@@ -11,8 +11,8 @@ public class mainAcount {
 		System.out.println("\n\t" + newAcount);
 		System.out.println("Welcome2");
 		newAcount.deposit(3000);
-
+System.out.println("github");
 		System.out.println("\n\t" + newAcount);
-		System.out.println("Welcome1");
+		System.out.println("Welcome1111");
 	}
 }
